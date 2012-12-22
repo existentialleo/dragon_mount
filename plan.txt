@@ -2,7 +2,7 @@ Plan
 
 0-pre-pre planning.
 a. familiarize self with git
-	1. still working on that.
+	1. still working on that....
 b. ditto to eclipse
 c. once more this time with java
 
