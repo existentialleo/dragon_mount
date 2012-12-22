@@ -1,0 +1,9 @@
+Plan
+
+0-pre-pre planning.
+a. familiarize self with git
+b. ditto to eclipse
+c. once more this time with java
+
+1-pre planning
+a. write game doc.
