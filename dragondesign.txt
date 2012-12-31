@@ -1,0 +1,13 @@
+Game name: Dragon on the Mount.
+Genre:Turn Based strategy game with rpg elements
+Platform:java se 6
+
+Game play consists of controlling a character.
+Exploration mode is a central hud for the game play and subsystem interactions.
+	It features the character exploring the world real time, interacting with objects, talking to people, and more.
+	Space filling hex pattern. Terrain, objects and characters fill the world. 
+Combat
+	
+Social
+
+   
